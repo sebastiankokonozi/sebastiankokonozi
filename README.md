@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @sebastiankokonozi,an Business-Informatics graduated student from Epoka University
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ...
-- 💞️ 💞️ I’m looking to collaborate on groups/projects with other developers
-- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/sebastian-kokonozi-7a2a62144/
+# 👋 Hi, I'm Sebastian 
+🚀 **React Native Developer | Expo | TypeScript**  
+💼 **Building mobile, IoT, & real-time apps**  
 
-<!---
-sebastiankokonozi/sebastiankokonozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠 Tech Stack  
+- **React Native (Expo),React JS, TypeScript, Tailwind**  
+- **WebSockets, Real-time Data, Bluetooth Serial**  
+- **QR Code Scanning, Wi-Fi Connectivity, Firebase**  
+- **REST APIs, WordPress (ACF), Node.js**
+- 
+## 🔥 What I Do  
+- 📱 **Mobile Apps** – React Native, Expo Camera, IoT Integrations  
+- 🔗 **Connectivity** – Bluetooth, QR Authentication, Wi-Fi Setup
+- ⚡ **Real-Time** – WebSockets, Live Data Streaming  
+- 🛠 **Custom Solutions** – Freelance & Open Source  
+
+## 📫 Contact Me  
+📧 [LinkedIn](https://www.linkedin.com/in/sebastian-kokonozi/)  
